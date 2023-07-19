@@ -1,0 +1,15 @@
+{
+  "name": "Bloodsucker #1",
+  "description": "Bloodsuckers is a unique low supply project.",
+  "image": "ipfs://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/1.png",
+  "dna": "19cabac5a01348a0bf04cce60135dd1096d67a6d",
+  "edition": 1,
+  "date": 1678194423424,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Lamia"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
